@@ -12,6 +12,7 @@ void axis(double len){
         glVertex3d(0,0,len);
     glEnd();
 
+
     glTranslated(0,0,len-0.2);
     glutWireCone(0.04,0.2,12,9);
 

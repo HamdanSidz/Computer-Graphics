@@ -9,6 +9,7 @@ using namespace std;
 const int screenWidth = 640;	   // width of screen window in pixels
 const int screenHeight = 460;	   // height of screen window in pixels
 
+
 void init(void)
 {
 	glClearColor(1.0, 1.0, 1.0, 0.0);       // background color is white

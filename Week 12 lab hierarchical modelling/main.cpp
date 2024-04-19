@@ -7,6 +7,7 @@ GLfloat carX = 0.0f;
 GLfloat carY = -4.0f;
 GLfloat posCar = 0.0;
 
+
 void drawRoad() {
     // Draw the road
     glColor3f(0.0, 0.2, 0.2);  // near blackish color for the road

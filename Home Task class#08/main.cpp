@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 class Canvas{
  public:
     float x,y,angle;

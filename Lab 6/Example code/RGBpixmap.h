@@ -6,6 +6,8 @@ using namespace std;
 struct RGB{
 	unsigned char r,g,b;
 	};
+
+	
 class RGBpixmap{
 
 private:

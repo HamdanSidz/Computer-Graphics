@@ -8,6 +8,7 @@ int s_widht = 640;
 int s_height = 480;
 int length_snake = 4;
 
+
 enum Direction {STOP=0,UP,DOWN,LEFT,RIGHT} dir;
 
 bool gameover = false;

@@ -10,6 +10,7 @@ void setWindow(int xs, int xe, int ys, int ye) {
 	gluOrtho2D((GLint)xs, (GLint)xe, (GLint)ys, (GLint)ye);
 }
 
+
 void tooth0(){
     glBegin(GL_LINE_STRIP);
     glColor3f(0.0,1.0,0.0);

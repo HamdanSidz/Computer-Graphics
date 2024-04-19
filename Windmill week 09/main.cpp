@@ -8,6 +8,7 @@
 //static GLint x = 0;
 //static GLint y = 0;
 //
+
 //void display(void);
 //void drawWindmill(void);
 //void drawlandscape(void);
@@ -142,7 +143,8 @@
 //    glutTimerFunc(0, Timer, 1);
 //    glutMainLoop();
 //    return 0;
-//}
+//}
+
 
 
 
